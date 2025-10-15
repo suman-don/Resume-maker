@@ -1,7 +1,0 @@
-#include "resume.h"
-
- int main(){
-   
- 	return 0;
- }
-
