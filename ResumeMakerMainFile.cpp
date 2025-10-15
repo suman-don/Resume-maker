@@ -61,13 +61,13 @@
  		  	             cout<<"                                             Enter your option: ";
  		  	 		     cin>>option;
  		  	 		     switch(option){
- 		  	 		     	case 1: 
+ 		  	 		     	case 1: system("cls");
  		  	 		     		
  		  	 		     		break;
- 		  	 		     	case 2:
+ 		  	 		     	case 2: system("cls");
  		  	 		     		
  		  	 		     		break;
- 		  	 		     	case 3:
+ 		  	 		     	case 3: system("cls");
  		  	 		     		
  		  	 		     		break;
  		  	 		     	default:
