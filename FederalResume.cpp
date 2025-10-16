@@ -1,10 +1,82 @@
 #include "ResumeMakerHeaderFile.h"
 
 void templateMaker::Federal_Resume(){
-	
-	system("cls");
-								  cout<<"Federal Resume";
- 		  	 		     		    getchar();
+  resume7();
+
+}
+void templateMaker::resume7(){
+		system("cls"); 
+	 cout<<endl<<endl;
+ 	 cout<<"                                     =============== FEDERAL RESUME TEMPLATE ==============="<<endl<<endl;
+ 	 cout<<"                   ------------------------------------------------------------------------------------------"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+	 cout<<"                  |   ALEX JOHNSON                                                                           |"<<endl;
+	 cout<<"                  |   1232 HoffmanSt. DuPant, WA 98327                                                       |"<<endl;
+	 cout<<"                  |   250-623-3357                                                                           |"<<endl;
+	 cout<<"                  |   tamangrani934@gmail.com                                                                |"<<endl;
+	 cout<<"                  |   linkedin.com/in/ajohson                                                                |"<<endl;
+	 cout<<"                  |                                                                                          |"<<endl;
+	 cout<<"                  |   PUBLIC POLICY MANAGER/DIRECTOR  |  PROGRAM MANAGER  |  PROJECT MANAGER                 |"<<endl;      
+ 	 cout<<"                  |   Driving Preventing, Early Intervention, Outreach Services in Mental Health and Comm    |"<<endl;
+ 	 cout<<"                  |   unity Correction                                                                       |"<<endl;
+ 	 cout<<"                  |   Behavioral Health  |  Substance Use Disorders  |  Criminal Justice  |  Probation       |"<<endl;
+ 	 cout<<"                  |   and Parole  |  Human Services  |  Social Work                                          |"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+ 	 cout<<"                  |   8 years of expertise spanning corrections leadership, board roles in 8 social          |"<<endl;
+ 	 cout<<"                  |   service  orgranizations, and extensive volunteering with numerous community non-       |"<<endl;                                                                       
+     cout<<"                  |   profits. Track record of improving outcomes for people with mental health condition    |"<<endl;
+	 cout<<"                  |   and criminal justice system involvement by implementing programs, improving policie    |"<<endl;      
+ 	 cout<<"                  |   and advocating for legistive charge. Steered up to 5 correction officers, 60+ volu     |"<<endl;
+ 	 cout<<"                  |   nteers, and multiple programs                                                          |"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+ 	 cout<<"                  |   KEY SKILLS                                                                             |"<<endl;
+ 	 cout<<"                  |   Leadership  |  Strategic Planning  |  Research  |  Public Policy Analysis  |  Advoc    |"<<endl;
+ 	 cout<<"                  |   acy  |  Program Development  |  Program Management  |  Project Management  |  Rela     |"<<endl;
+ 	 cout<<"                  |   tionship Building  |  Grant Oversight  |  Team Supervision  |  Training  |  Change     |"<<endl;
+	 cout<<"                  |   Management  |  Problem-Solving  |  Analytical Skills  |  Writing  |  Communication     |"<<endl;                                                                                
+     cout<<"                  |   |  Microsoft Office                                                                    |"<<endl;
+	 cout<<"                  |                                                                                          |"<<endl;      
+ 	 cout<<"                  |   EXPERIENCE                                                                             |"<<endl;
+ 	 cout<<"                  |   Washtington State Department of Corrections, Seattle, WA                               |"<<endl;
+ 	 cout<<"                  |   May 2015-Present                                                                       |"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+ 	 cout<<"                  |   Community Corrections Specialist IV,2019-Present                                       |"<<endl;
+ 	 cout<<"                  |   Member of Critical Incident Stress Management (CIPSM) Team, 2018-Present               |"<<endl;
+ 	 cout<<"                  |   Community Parenting Alternative Selection Committee Member, 2018-Present               |"<<endl;
+ 	 cout<<"                  |   Academy Instructor,2017-Present                                                        |"<<endl;
+ 	 cout<<"                  |   Statewide Occupational Health & Wellness Committee Member, 2016-Present (Chair,2015-   |"<<endl;
+ 	 cout<<"                  |   2016)                                                                                  |"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+     cout<<"                  |   Innovative technology specialist with 8+ years of hands-on experience in software      |"<<endl;
+     cout<<"                  |   development, IT operations, and process automation. Strong expertise in C++, Python,   |"<<endl;
+     cout<<"                  |   and full-stack web development. Recognized for leading digital transformation          |"<<endl;
+     cout<<"                  |   initiatives that improved productivity by over 30%.                                    |"<<endl;
+     cout<<"                  |   Skilled in collaborating with cross-functional teams to identify technical gaps and    |"<<endl;
+     cout<<"                  |   deliver robust solutions. Adept at designing scalable systems and optimizing system    |"<<endl;
+     cout<<"                  |   architecture for maximum performance and reliability.                                  |"<<endl;
+     cout<<"                  |                                                                                          |"<<endl;
+     cout<<"                  |   Highly organized and detail-oriented professional with a focus on innovation, user     |"<<endl;
+     cout<<"                  |   experience, and strategic development. Passionate about leveraging modern tools to     |"<<endl;
+     cout<<"                  |   solve real-world challenges.                                                           |"<<endl;
+     cout<<"                  |   Excellent communication and leadership abilities. Strong background in mentoring       |"<<endl;
+     cout<<"                  |   junior developers, managing project lifecycles, and driving team success.              |"<<endl;
+     cout<<"                  |                                                                                          |"<<endl;
+     cout<<"                  |   Community Correction Specialist ILL, 2018-2019                                         |"<<endl;
+     cout<<"                  |                                                                                          |"<<endl;
+     cout<<"                  |   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi.               |"<<endl;
+     cout<<"                  |   Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia.      |"<<endl;
+     cout<<"                  |   Morbi mattis lectus sed libero congue, sed malesuada nulla accumsan.                   |"<<endl;
+     cout<<"                  |   Cras nec sem id risus suscipit sagittis. Sed a nisl quis ipsum fermentum tincidunt.    |"<<endl;
+     cout<<"                  |   Quisque laoreet turpis ut justo sagittis, sit amet volutpat velit malesuada.           |"<<endl;
+     cout<<"                  |   Mauris eget lectus in neque dictum tempus. In sit amet risus nec leo tincidunt.        |"<<endl;
+     cout<<"                  |   Aliquam vel sapien at libero tristique porta et ut eros.                               |"<<endl;
+     cout<<"                  |                                                                                          |"<<endl;
+     cout<<"                  |   Fusce fringilla nunc vitae tortor accumsan, in dapibus nunc tincidunt.                 |"<<endl;
+     cout<<"                  |   Aenean non arcu quis odio tempor posuere. Nulla at velit at metus fermentum.           |"<<endl;
+     cout<<"                  |   Proin nec justo quis felis pulvinar sagittis sed sit amet orci.                        |"<<endl;
+ 	 cout<<"                  |                                                                                          |"<<endl;
+ 	 cout<<"                   ------------------------------------------------------------------------------------------"<<endl;
+ 		  	 		     	  	   getchar();
  		  	 		     	  	   getchar();
  		  	 		     	  	   system("cls");
 }
