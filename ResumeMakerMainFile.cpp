@@ -62,7 +62,10 @@
  		  	 		     cin>>option;
  		  	 		     switch(option){
  		  	 		     	case 1: system("cls");
- 		  	 		     		
+ 		  	 		     		    t.printSave1();
+ 		  	 		     		    getchar();
+ 		  	 		     		    getchar(); 
+ 		  	 		     		    system("cls");
  		  	 		     		break;
  		  	 		     	case 2: system("cls");
  		  	 		     		
